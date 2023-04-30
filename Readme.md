@@ -1,5 +1,9 @@
 Made a  pcb for the Cw Decoder ATS-25
-## About the original project
+
+You need a buck convertor from 3.7V to 5V for the ATS-25
+
+
+
 
 ### Photos
 ### "Front"
