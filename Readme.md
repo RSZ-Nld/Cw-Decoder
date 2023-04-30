@@ -17,8 +17,5 @@ Made a  pcb for the Cw Decoder ATS-25
 
 
 Gerbers are here:  
-https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-2.zip
-
-and for stand alone:
 
 https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-3.zip
