@@ -18,7 +18,7 @@ Diagram 1
 
 Diagram 2 Stand alone
 
-![Photo 3](
+![Photo 3](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/cw-adaptor.jpg)
 
 
 
