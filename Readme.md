@@ -5,7 +5,7 @@ Made a  pcb for the Cw Decoder ATS-25
 ### "Front"
 ![Photo 010]( https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Front.JPG)
 ### “Back”
-![Photo 1]( https://github.com/Vwbeetle2/TTGO/blob/main/Pcb.JPG)
+![Photo 1]( https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Back.JPG)
 
 
 ### "Diagram"
