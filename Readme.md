@@ -1,5 +1,7 @@
 Made a  pcb for the Cw Decoder ATS-25
 
+all caps and resistors are 0805 smd size. 
+
 You need a buck convertor from 3.7V to 5V for the ATS-25
 
 
