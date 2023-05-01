@@ -16,7 +16,7 @@ You need a buck convertor from 3.7V to 5V for the ATS-25
 
 Diagram 1
 
-![Photo 2](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/cw-adap.jpg)
+![Photo 2](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Cw%20Decoder.JPG)
 
 Diagram 2 Stand alone
 
