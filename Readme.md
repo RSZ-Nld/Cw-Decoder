@@ -30,6 +30,10 @@ Diagram 2 Stand alone
 
 
 
-Gerbers are here:  
+Gerbers smd are here:  
 
 https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-3.zip
+
+Gerbers Dip Version here:
+
+https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-Dip.zip
