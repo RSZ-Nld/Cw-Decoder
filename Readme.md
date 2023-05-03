@@ -1,4 +1,4 @@
-Made 2 pcbs smd and normal parts for the Cw Decoder ATS-25
+Made 2 pcbs smd and dip version  for the Cw Decoder ATS-25
 
 all caps and resistors are 0805 smd size. 
 
