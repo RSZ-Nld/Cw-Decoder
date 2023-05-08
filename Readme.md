@@ -17,6 +17,10 @@ You need a buck convertor from 3.7V to 5V for the ATS-25
 ### "Front Dip Version:"
 ![Photo 4](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Front-DIP.JPG)
 
+### "Front Pcb Dip with 3 to 5V conversion:"
+
+![Photo 5](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Front-Dip-Conv.JPG)
+
 
 
 Diagram 1
