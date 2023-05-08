@@ -31,6 +31,10 @@ Diagram 2 Stand alone
 
 ![Photo 3](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/cw-adaptor.jpg)
 
+Diagram 3 3.7V to 5Volt convertor
+
+![Photo 8](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/U1B0305S%20Convertor.JPG)
+
 
 
 
