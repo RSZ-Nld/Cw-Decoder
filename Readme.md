@@ -31,11 +31,15 @@ Diagram 1
 
 ![Photo 2](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Cw%20Decoder.JPG)
 
-Diagram 2 Stand alone
+Diagram 2 
+
+Stand alone
 
 ![Photo 3](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/cw-adaptor.jpg)
 
-Diagram 3 3.7V to 5Volt convertor
+Diagram 3 
+
+3.7V to 5Volt convertor
 
 ![Photo 8](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/U1B0305S%20Convertor.JPG)
 
