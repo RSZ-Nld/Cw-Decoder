@@ -57,7 +57,7 @@ https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-3.zip
 
 Gerbers smd with Conversion on board:
 
-https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-Smd-Conv.rar
+https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-Smd-Conv.zip
 
 Gerbers Dip Version here:
 
