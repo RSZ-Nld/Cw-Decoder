@@ -43,6 +43,10 @@ Diagram 3
 
 ![Photo 8](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/U1B0305S%20Convertor.JPG)
 
+U1B0305S Datasheet
+
+![Photo 14](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/U1B0305S.jpg)
+
 
 
 
