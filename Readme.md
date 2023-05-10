@@ -17,11 +17,11 @@ You need a buck convertor from 3.7V to 5V for the ATS-25 or the second pcb with 
 ### "Front Dip Version:"
 ![Photo 4](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Front-DIP.JPG)
 
-### "Front Smd Pcb with 3 to 5V conversion on board:"
+### "Front Smd Pcb with 3 to 5V conversion on board for the ATS-25:"
 
 ![Photo 9](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Front-Cw%20dec-Smd-Conv.JPG)
 
-### "Front Pcb Dip with 3 to 5V conversion:"
+### "Front Pcb Dip with 3 to 5V conversion for the ATS-25:"
 
 ![Photo 5](https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Front-Dip-Conv.JPG)
 
