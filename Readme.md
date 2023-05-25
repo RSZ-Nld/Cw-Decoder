@@ -69,4 +69,4 @@ https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-Dip.zip
 
 Gerbers Dip Version with conv on board:
 
-https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-Dip-Conv.zip
+https://github.com/RSZ-Nld/Cw-Decoder/blob/main/Gerbers-V1.3.zip
