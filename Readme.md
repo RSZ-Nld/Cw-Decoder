@@ -1,6 +1,6 @@
 Made 2 pcbs smd and dip version  for the Cw Decoder ATS-25
 
-all caps and resistors are 0805 smd size.  only inductor 1206
+all caps and resistors are 0805 smd size.  only inductor and tantal 1206
 
 You need a buck convertor from 3.7V to 5V for the ATS-25 or the second pcb with convertor, see below
 
