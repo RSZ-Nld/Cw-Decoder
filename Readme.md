@@ -5,6 +5,9 @@ all caps and resistors are 0805 smd size.  only inductor 1206
 You need a buck convertor from 3.7V to 5V for the ATS-25 or the second pcb with convertor, see below
 
 
+!!! There was a fault in the orginal diagram, Cap 10uF the + between Pin 1 and 8 LM386 was wrong, see my new diagram !!!
+
+
 
 
 ### Photos
